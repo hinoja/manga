@@ -1,0 +1,220 @@
+ /*      FORMULAIRE        */
+
+ h3{
+ 	text-align: center;
+ }
+ .style
+ {
+ 	 
+ 	box-shadow: 0px 0px 20px green;
+
+ }
+ form
+ {
+ 	margin: auto 70px;
+ }
+ .center2
+ {
+ 	text-shadow: 0px 3px black;
+ 	color:rgba(255,130,170,1); ;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	font-family: ALGERian;
+ }
+.center
+{
+	text-align: center;
+ 
+}
+.erreur
+{
+	background-color: rgba(237,18,19,0.1);
+	text-align: center;
+	width: 65%;
+	position: relative;
+	margin:20px auto;
+	height: 30px;
+	font-weight: bold;
+	padding-top: 5px;
+	font-size:1.3em;
+}
+.valider
+{
+	background-color: rgba(181,230,29,0.6);
+	text-align: center;
+	width: 65%;
+	position: relative;
+	margin:20px auto;
+	height: 30px;
+	font-weight: bold;
+	padding-top: 5px;
+	font-size:1.3em;
+}
+
+
+
+/*  membres.php*/ 
+th
+{
+	text-transform: uppercase;
+	font-size: 1.3em;
+	color: green;
+	text-align: center;
+	
+}
+tr td 
+{
+	text-align: center;
+}
+thead
+{
+	background-color: #103;
+}
+.voir
+{
+  text-transform: uppercase;
+	font-size: 2em;
+	color: green;
+	text-align: center;
+}
+table a:hover{
+	 
+	text-decoration: none;
+	color: yellow;
+}
+table a{
+	 
+	color: white;
+}
+.cc
+{
+	text-align: center;
+	 
+}
+/* Volet de naviguation  */
+  
+
+.nav2 a
+{
+	 
+	color: rgba(255,255,222,0.7);
+	font-size: 20px;
+	font-weight: bold;
+	font-family: forte;
+}
+ 
+a 
+{
+	text-decoration: none;
+}
+li
+{
+	list-style-type: none;
+}
+ 
+ .test
+ {
+ 	padding-right: 46px;
+ }
+.deco
+{
+	 
+	padding: 0px 0px;
+	text-align:center;
+	background-color: #5cb85c;
+
+		box-shadow: 0px 0px 10px black;
+	text-shadow: 2px 2px red;
+}
+ul
+{
+	border-collapse: none;
+
+
+}
+/*  footer */
+.footer
+{
+   background-color: #455100;
+   text-align: center;
+}
+.zoom
+{
+	font-size: 4em;
+	text-shadow: 2px 3px red
+
+}
+.valeur
+{
+	color: #115;
+	font-family: algerian;
+	text-decoration: none;
+}
+
+
+ 
+ /*  Contenu.php */
+ .color .astagroup h3
+ {
+ 	color: blue;
+ 	font-family: algerian;
+ }
+  .color
+  {
+  	 background-color: rgba(135,38,45,1);
+  }
+  .forte2
+  {
+  	font-family:'Old English Text MT';
+  	color:red; 
+    text-shadow: 3px 4px black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.5rem;
+  }
+  .case
+  {
+  	border:3px solid grey;
+  }
+  .astagroup
+  {
+  	 box-shadow: 0 0 15px black;
+  	text-align: justify;
+  	padding: 4px; 
+  }
+  .trefle
+  {
+  	background: url('images/trefle2.png') center right no-repeat ;
+    padding-top: 20px;
+    color: rgba(2,1,1,1);
+    background-color: white;
+    margin-bottom: 20px;
+  }
+  .lettrine
+  {
+  	font-size: 2em;
+  	font-family: 'Pristina';
+  	font-weight:bold;
+  	padding-left: 20px;
+  }
+  .cadre img
+  {
+  	height: 100px;
+  	width: 200px;
+  	margin-bottom: 8px;
+  	text-align: center;
+  }
+  .cadre h2
+  {
+  	color: green;
+  	text-shadow: 0 3px orange;
+  	font-family: 'Pristina';
+  }
+  .body_contenu
+  { 
+  }
+  .naruto
+  {
+  	text-align: justify;
+  	
+  }
